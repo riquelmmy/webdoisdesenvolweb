@@ -1,3 +1,7 @@
+Um sistema de criação de tarefas utilizando rectjs e strapi.
+Strapi faz a função de back-end e o mesmo está localizado na pasta "backend"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
